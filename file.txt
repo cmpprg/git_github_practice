@@ -2,4 +2,5 @@ Hello World!
 Ryan will learn this!!
 I don't know a thing about branching!
 
-first commit on new brach!
+first commit on new branch!
+second commit on new branch!
