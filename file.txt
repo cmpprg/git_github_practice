@@ -4,3 +4,4 @@ I don't know a thing about branching!
 
 first commit on new branch!
 second commit on new branch!
+third commit on new branch!
