@@ -6,3 +6,4 @@ first commit on new branch!
 second commit on new branch!
 third commit on new branch!
 fourth commit on new branch! This is the same as committing the normal way!
+fifth commit on new branch!
